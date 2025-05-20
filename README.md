@@ -10,7 +10,6 @@ Una implementación sencilla de honeypot para capturar y monitorear actividad ma
 - [Uso](#uso)
 - [Monitorización](#monitorización)
 - [Notas](#notas)
-- [Licencia](#licencia)
 
 ## Características
 
