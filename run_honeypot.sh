@@ -2,8 +2,6 @@
 
 # HoneyPot
 # Author: undefined_name
-# Created: 5/08/2024
-# Modified: 16/08/2024
 
 
 echo """
